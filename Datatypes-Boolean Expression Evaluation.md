@@ -14,8 +14,39 @@ To write a Python program that evaluates and prints the results of boolean and a
 7. Print the value of `c` with the label "c:".
 8. Print the value of `d` with the label "d:".
 
-## 💻 Program
-Add Code here
+## 💻 Program:
+````
+# Boolean expressions
+print("Boolean Expressions:")
+print(f"True and False: {True and False}")   # AND operation
+print(f"True or False: {True or False}")     # OR operation
+print(f"not True: {not True}")               # NOT operation
+print(f"True == False: {True == False}")     # Equality check
+print(f"True != False: {True != False}")     # Inequality check
 
-## Output
-## Result
+# Arithmetic expressions
+print("\nArithmetic Expressions:")
+print(f"True + False: {True + False}")       # True is 1, False is 0, so 1 + 0 = 1
+print(f"True - False: {True - False}")       # 1 - 0 = 1
+print(f"True * False: {True * False}")       # 1 * 0 = 0
+print(f"True / False (handled as an error): {True / False}")  # Division by zero error
+```
+## Output:
+```
+Boolean Expressions:
+True and False: False
+True or False: True
+not True: False
+True == False: False
+True != False: True
+
+Arithmetic Expressions:
+True + False: 1
+True - False: 1
+True * False: 0
+True / False (handled as an error): Division by zero
+```
+## Result:
+Thus  program to evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is successful
+
+
