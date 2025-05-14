@@ -19,12 +19,8 @@ print(f"You entered: {user_input}")
 
 ## Output:
 ```
-# user input
-Enter a string: Hello, Python!
-# output from user
-You entered: Hello, Python!
+Input                  Result
+Hello, Python!      Hello, Python!
 ```
-
-
 ## Result:
 thus the program for read and print of strings was successful
