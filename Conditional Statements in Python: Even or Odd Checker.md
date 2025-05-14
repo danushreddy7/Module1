@@ -21,8 +21,8 @@ else:
 ```
 ## Output:
 ```
-Enter a number: 7
-7 is odd
+Input      Result
+7          7 is Odd      
 ```
 
 ## Result:
