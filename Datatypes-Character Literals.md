@@ -16,8 +16,9 @@ print('a')
 
 ## Output:
 ```
-T
-a
+Input                Result
+  T                     T
+  a                     a
 ```
 
 ## Result:
