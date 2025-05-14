@@ -34,18 +34,19 @@ print(f"True / False (handled as an error): {True / False}")  # Division by zero
 
 ## Output:
 ```
-Boolean Expressions:
-True and False: False
-True or False: True
-not True: False
-True == False: False
-True != False: True
-
-Arithmetic Expressions:
-True + False: 1
-True - False: 1
-True * False: 0
-True / False (handled as an error): Division by zero
+Input              Result
+               Boolean Expressions:
+  a            True and False: False
+  b            True or False: True
+  c            not True: False
+  d            True == False: False
+  0            True != False: True
+-------------------------------------------- 
+              Arithmetic Expressions:
+  1           True + False: 1
+  1           True - False: 1
+  a           True * False: 0
+  0            True / False (handled as an error): Division by zero
 ```
 ## Result:
 Thus  program to evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is successful
