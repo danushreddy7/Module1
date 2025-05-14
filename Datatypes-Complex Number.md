@@ -27,15 +27,10 @@ print(f"Imaginary part: {complex_number.imag}")
 ```
 ## Output:
 ```
-#input
-
-Enter the real part: 3
-Enter the imaginary part: 4
-#Output for given input
-
-Complex number: (3+4j)
-Real part: 3.0
-Imaginary part: 4.0
+Input                           Result
+   3                Complex number: (3+4j)
+   4                Real part: 3.0
+                    Imaginary part: 4.0
 ```
 ## Result:
 thus the program to read the integers was successful
