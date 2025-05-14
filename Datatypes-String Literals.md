@@ -19,7 +19,7 @@ print(f"You entered: {user_input}")
 
 ## Output:
 ```
-Input                  Result
+ Input                  Result
 Hello, Python!      Hello, Python!
 ```
 ## Result:
